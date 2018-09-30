@@ -4,6 +4,8 @@ div{
 
 .page1{
 	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+	line-height: 26px;
 }
 
 h1{
@@ -36,9 +38,11 @@ p{
 
 }
 
-.voorgerecht{
+.hoofdgerecht{
 	border-bottom: 1px solid black;
 	padding-bottom: 20px;
+	font-size: 36px;
+	line-height: 36px;
 }
 
 
@@ -49,14 +53,12 @@ h2{
 ul{
 	margin-left: 200px;
 	font-size: 20px;
+	margin-bottom: 10px;
 }
 ol{
 	margin-left: 200px;
 	font-size: 20px;
-}
-{
-	border: 1px solid black
- 
+	margin-bottom: 10px;
 }
 .eind{
 	border: 1px solid black;
