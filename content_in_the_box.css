@@ -1,17 +1,17 @@
 div{
     background-color:#ECE9D6;
-    border:20px solid #CB423A;
+    border:20px #CB423A;
     height:200px;
     margin:40px;
-    padding:20px;
+    padding:22px;
     width:350px;
     border-style:dashed;
 }
 
 p{
-    text-align:left;
-    position:absolute;
     position:absolute;
     top:120px;
     left:100px;
 }
+
+/*p text-align:left;*/
