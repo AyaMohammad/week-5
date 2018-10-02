@@ -94,3 +94,15 @@ ol{
     width: 100px;
     height: 100px;
 }
+
+img{
+width: 250px;
+}
+
+.boven{
+	width:730px ;
+	height:250px;
+	border: 1px solid grey; 
+	margin-left: 200px; 
+	margin-bottom: 20px;
+}
