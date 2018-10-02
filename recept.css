@@ -11,7 +11,10 @@ div{
 h1{
 	margin-left: 200px;
 	margin-top: 0px;
-	
+	border-bottom: 1px solid black;
+	padding-bottom: 20px;
+	font-size: 36px;
+	line-height: 36px;
 }
 ul a li{
     background-color: #f44336;
@@ -33,22 +36,22 @@ nav{
 p{
 	margin-left:200px;
 	margin-top: 0px;
-	font-size: 20px;
-
-
+	font-size: 24px;
+	line-height: 32px;
 }
-
-.hoofdgerecht{
-	border-bottom: 1px solid black;
-	padding-bottom: 20px;
-	font-size: 36px;
-	line-height: 36px;
+.gehaktbrood{
+	border: 1px solid grey;
+	margin-left: 200px;
+	width: 760px;
+	height: 760px;
 }
 
 
 h2{
 	margin-left: 200px;
 	margin-top: 0px;
+	font-size: 32px;
+	line-height: 32px;
 }
 ul{
 	margin-left: 200px;
@@ -105,4 +108,21 @@ width: 250px;
 	border: 1px solid grey; 
 	margin-left: 200px; 
 	margin-bottom: 20px;
+}
+.ingredienten{
+	margin: 40px 0;
+	padding: 10px;
+	font-size: 32px;
+	line-height: 32px;
+}
+
+ol li{
+	margin:20px;
+}
+ul li{
+	margin:10px;
+}
+.bereidingswijze{
+	margin: 20px;
+
 }
